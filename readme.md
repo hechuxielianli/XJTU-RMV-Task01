@@ -9,4 +9,6 @@
  
  更换了电脑，现已成功安装Ubuntu
 
-![alt text](ubuntu1-1.jpg)![alt text](ubuntu2-1.jpg)
+安装Ubuntu成功截图
+![安装成功截图1](ubuntu1-1.jpg)
+![安装成功截图2](ubuntu2-1.jpg)
