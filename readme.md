@@ -8,3 +8,5 @@
 **2.磁盘空间不足**
  
  更换了电脑，现已成功安装Ubuntu
+
+![alt text](ubuntu1-1.jpg)![alt text](ubuntu2-1.jpg)
